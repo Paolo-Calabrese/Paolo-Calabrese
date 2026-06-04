@@ -203,7 +203,6 @@ I'm a 3rd-year Computer Science student building intelligent systems that solve 
 *Currently shipping 🚀*
 
 <div align="center">
-  <h1>Hey, I'm Paolo 👋</h1>
   <p>
     <em>Computer Science Student | AI & Cybersecurity Enthusiast | Full-Stack Developer</em>
   </p>
