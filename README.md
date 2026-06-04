@@ -9,7 +9,7 @@ I'm building intelligent software that solves real problems. Currently focused o
 ## 🛠️ What I Work With
 
 **Languages:** Python • C++ • Java • C • JavaScript/TypeScript  
-**Frontend:** React • Expo • Next.js (with AI) 
+**Frontend:** Next.js (with AI) 
 **Backend:** Node.js • PostgreSQL • PhpMyAdmin  
 **AI/Tools:** Claude • ChatGPT • Gemini  
 **Other:** Git • Docker (learning)
