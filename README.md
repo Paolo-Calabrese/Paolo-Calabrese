@@ -1,6 +1,6 @@
 # Hey, I'm Paolo 👋
 
-Computer Engineering Student @ Year 3 | AI & Cybersecurity Enthusiast | Full-Stack Developer
+Italian Computer Engineering Student @ Year 3 | AI & Cybersecurity Enthusiast | Full-Stack Developer
 
 I'm building intelligent software that solves real problems. Currently focused on AI integration, secure systems, and shipping products that actually work (not just prototypes).
 
@@ -177,8 +177,8 @@ I'm a 3rd-year Computer Science student building intelligent systems that solve 
 
 **The Plan:**
 1. ✅ Ship SubscriptionVault to production
-2. 📚 Graduate with CS degree
-3. 💼 Land a role at a serious company (Leonardo, Thales, or BigTech)
+2. 📚 Graduate with CE degree
+3. 💼 Land a role at a serious company (Leonardo, Thales, or any BigTech's company)
 4. 🧠 Pursue a Master's in AI
 
 ---
