@@ -78,7 +78,7 @@ Open to internships, contract work, or just talking about AI, security, or why s
 
 ---
 
-![Paolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paolo-Calabrese&show_icons=true&theme=dark&hide_border=true&card_width=500)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paolo-Calabrese&show_icons=true&theme=tokyonight&hide_border=true&card_width=500)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Paolo-Calabrese&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paolo-Calabrese&layout=compact&theme=dark&hide_border=true&card_width=500)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Paolo-Calabrese&theme=dark&no-frame=true&no-bg=true&row=1&column=6)
