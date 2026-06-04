@@ -78,38 +78,129 @@ Open to internships, contract work, or just talking about AI, security, or why s
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paolo-Calabrese&show_icons=true&theme=tokyonight&hide_border=true&card_width=500)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Paolo-Calabrese&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paolo-Calabrese&layout=compact&theme=dark&hide_border=true&card_width=500)
-![trophy](https://github-profile-trophy.vercel.app/?username=Paolo-Calabrese&theme=dark&no-frame=true&no-bg=true&row=1&column=6)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Paolo-Calabrese.Paolo-Calabrese&left_color=gray&right_color=blue)
+<div align="center">
+  <h1>👋 Hey, I'm Paolo</h1>
+  <p>
+    <strong>CS Student | AI & Cybersecurity Enthusiast | Full-Stack Developer</strong>
+  </p>
+  <p>Building intelligent, secure software that actually matters</p>
+</div>
 
-### 💻 Tech Stack
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI & Tools
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Paolo-Calabrese&theme=tokyo-dark&hide_border=true&area=true&hide_title=false)
+</div>
 
-### 📬 Connect With Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paolocalabrese80@gmail.com)
+---
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+![Claude Code In Action](https://img.shields.io/badge/Claude%20Code%20In%20Action-Verified-2563eb?style=for-the-badge&logo=anthropic&logoColor=white)
+![MATLAB Onramp](https://img.shields.io/badge/MATLAB%20Onramp-Certified-FF6B6B?style=for-the-badge)
+![COMAU Robotics Patentino](https://img.shields.io/badge/COMAU%20Robotics%20Patentino-Certified-FF9500?style=for-the-badge)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### **SubscriptionVault** — Never Lose Money to Forgotten Subscriptions
+*Smart subscription tracker that tracks recurring payments and prevents wasteful spending*
+
+- **Tech Stack:** React Native • Expo • Node.js/Express • PostgreSQL
+- **Status:** MVP production-ready | Deploying to cloud
+- 🔗 **Repo:** [Coming to GitHub](#)
+
+---
+
+### **GymTracker** — Fitness Goals Made Trackable
+*Mobile app for progressive overload tracking and workout logging*
+
+- **Tech Stack:** React Native • Expo • Firebase
+- **Status:** MVP complete
+- 🔗 **Repo:** [Coming to GitHub](#)
+
+---
+
+### **NerdVault** — Modern E-Commerce Platform
+*Full-stack e-commerce for tech products built with modern tech*
+
+- **Tech Stack:** Next.js • PostgreSQL • Payment Integration (Stripe)
+- **Status:** In active development
+- 🔗 **Repo:** [Coming to GitHub](#)
+
+---
+
+## 🎯 What I'm Focused On Right Now
+
+- **Shipping SubscriptionVault to production** — Moving from local MVP to cloud deployment
+- **AI integration** — Making apps smarter with Claude and other LLMs
+- **Cybersecurity fundamentals** — Understanding security implications
+- **Full-stack mastery** — Closing gaps between frontend/backend
+
+---
+
+## 🎓 About Me
+
+I'm a 3rd-year Computer Science student building intelligent systems that solve real problems.
+
+**The Plan:**
+1. ✅ Ship SubscriptionVault to production
+2. 📚 Graduate with CS degree
+3. 💼 Land a role at a serious company (Leonardo, Thales, or BigTech)
+4. 🧠 Pursue a Master's in AI
+
+---
+
+## 📬 Get In Touch
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paolocalabrese80@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paolo-calabrese-1192792b7/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paolo-Calabrese)
 
-### 🎓 Certifications
-![Claude Code In Action](https://img.shields.io/badge/Claude%20Code%20In%20Action-Verified-2563eb?style=for-the-badge&logo=anthropic&logoColor=white)
-![MATLAB Onramp](https://img.shields.io/badge/MATLAB%20Onramp-Certified-FF6B6B?style=for-the-badge)
-![COMAU Robotics](https://img.shields.io/badge/COMAU%20Robotics%20Patentino-Certified-FF9500?style=for-the-badge)
+</div>
+
+**Interested in:**
+- Internships / Contract work
+- Collaboration on AI/Security projects
+- Technical discussion
+
+---
+
+*Currently shipping 🚀*
 
 <div align="center">
   <h1>Hey, I'm Paolo 👋</h1>
